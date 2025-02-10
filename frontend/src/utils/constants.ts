@@ -18,5 +18,10 @@ export const supportedChains: ChainInfo[] = [
     blockExplorer: "https://explorer-sepolia.shape.network",
     name: "Shape Sepolia",
   },
-
+  {
+    chainId: 7777123123,
+    disperseAddress: "0x54510dA48aE512387111623D59812B794d11754f",
+    blockExplorer: "https://explorer.metalayer.net/",
+    name: "Metalayer network",
+  },
 ];
